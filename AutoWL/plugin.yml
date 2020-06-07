@@ -1,0 +1,7 @@
+name: AutoWL
+author: Tarsh
+version: 1.0
+main: me.Tarsh.AutoWL.Core
+commands:
+  autowl:
+    description: Sets a time to auto unwhitelist
